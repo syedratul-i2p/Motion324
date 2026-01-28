@@ -42,7 +42,7 @@ class DinoEncoder(nn.Module):
     def __init__(self, patch_size=14, model_name='dinov2_vitb14'):
         super(DinoEncoder, self).__init__()
         self.model = torch.hub.load('facebookresearch/dinov2', model_name)
-        # self.model = torch.hub.load('/home/hongyuan/.cache/torch/hub/facebookresearch_dinov2_main', model_name, source = 'local')
+        # self.model = torch.hub.load('/to/your/path/.cache/torch/hub/facebookresearch_dinov2_main', model_name, source = 'local')
         if hasattr(self.model, 'patch_size'):
             assert self.model.patch_size == patch_size, \
                 f"DINOv2 model's patch size ({self.model.patch_size}) must match provided patch_size ({patch_size})"
